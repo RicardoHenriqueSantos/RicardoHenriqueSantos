@@ -5,23 +5,23 @@
 ### Technologies
 
 <div>
-<img src="https://icongr.am/devicon/git-original.svg" width="50" height="50"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"></img>
-<img src="https://icongr.am/devicon/java-original.svg" width="50" height="50"></img>
-<img src="https://icongr.am/devicon/mysql-original.svg" width="50" height="50"></img>
-<img src="https://icongr.am/devicon/mongodb-original.svg" width="50" height="50"></img>
-<img src="https://icongr.am/devicon/html5-original.svg" width="50" height="50"></img>
-<img src="https://icongr.am/devicon/css3-original.svg" width="50" height="50"></img>
-<img src="https://icongr.am/devicon/javascript-original.svg?" width="50" height="50"></img>
-<img src="https://icongr.am/devicon/linux-original.svg" width="50" height="50"></img>
+<img src="https://icongr.am/devicon/git-original.svg" width="40" height="40"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"></img>
+<img src="https://icongr.am/devicon/java-original.svg" width="40" height="40"></img>
+<img src="https://icongr.am/devicon/mysql-original.svg" width="40" height="40"></img>
+<img src="https://icongr.am/devicon/mongodb-original.svg" width="40" height="40"></img>
+<img src="https://icongr.am/devicon/html5-original.svg" width="40" height="40"></img>
+<img src="https://icongr.am/devicon/css3-original.svg" width="40" height="40"></img>
+<img src="https://icongr.am/devicon/javascript-original.svg?" width="40" height="40"></img>
+<img src="https://icongr.am/devicon/linux-original.svg" width="40" height="40"></img>
 </div>
 
 ### Social Media
 
 <div>
-<a href="https://www.linkedin.com/in/ricardo-henrique-santos-49b800240/" target="_blank"><img src="https://icongr.am/devicon/linkedin-original.svg" width="40" height="40" target="_blank"></a>
-<a href="https://twitter.com/RickySantins" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" width="40" height="40" target="_blank"></a>
-<a href="https://www.instagram.com/ricky_santins/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="40" height="40" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ricardo-henrique-santos-49b800240/" target="_blank"><img src="https://icongr.am/devicon/linkedin-original.svg" width="35" height="35" target="_blank"></a>
+<a href="https://twitter.com/RickySantins" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" width="35" height="35" target="_blank"></a>
+<a href="https://www.instagram.com/ricky_santins/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="35" height="35" target="_blank"></a>
 </div>
 
 ### Stats
