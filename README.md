@@ -23,7 +23,7 @@
 <a href="https://twitter.com/RickySantins" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" width="35" height="35" target="_blank"></a>
 <a href="https://www.instagram.com/ricky_santins/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="35" height="35" target="_blank"></a>
 </div>
-<!--
+
 ### Stats
 
 <div>
@@ -31,7 +31,6 @@
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoHenriqueSantos&hide_progress=true&layout=compact&langs_count=7&theme=tokyonight"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RicardoHenriqueSantos&show_icons=true&bg_color=00000000"/>
 </div>
--->
   
 ### CodeWars
   
