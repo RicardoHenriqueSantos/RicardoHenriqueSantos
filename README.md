@@ -20,7 +20,7 @@
 
 <div>
 <a href="https://www.linkedin.com/in/ricardo-henrique-santos-49b800240/" target="_blank"><img src="https://icongr.am/devicon/linkedin-original.svg" width="35" height="35" target="_blank"></a>
-<a href="https://twitter.com/RickySantins" target="_blank"><img src="https://w7.pngwing.com/pngs/421/879/png-transparent-twitter-logo-social-media-iphone-organization-logo-twitter-computer-network-leaf-media.png" width="35" height="35" target="_blank"></a>
+<a href="https://twitter.com/RickySantins" target="_blank"><img src="https://www.freeiconspng.com/uploads/twitter-icon-download-18.png" width="35" height="35" target="_blank"></a>
 <a href="https://www.instagram.com/ricky_santins/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="35" height="35" target="_blank"></a>
 </div>
 
